@@ -1,6 +1,5 @@
 # Stop Watch using HTML,CSS and JavaScript
  
-# Note : Create an issue first then make pull request :) 
 
 ### How to contribute 😎<br>
 
@@ -13,7 +12,7 @@
 * Wait for review.
 
 
-Web link -https://github.com/vishkharat/STOPWATCH/new/main
+Web link -https://github.com/vishkharat/STOPWATCH/tree/main
 <br>
 If you want this project then go ahead. Fork and clone it, make changes according to you.After that you can host it on Github using github pages.For any help reach me on social media link is in profile readme. https://www.instagram.com/stubborn_v_i_s_h/
 <br><br>
